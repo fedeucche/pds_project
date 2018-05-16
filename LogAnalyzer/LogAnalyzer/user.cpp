@@ -2,25 +2,29 @@
 //  user.cpp
 //  LogAnalyzer
 //
-//  Created by Terzuolo Simone on 15/05/18.
+//  Created by Marrae on 15/05/18.
 //  Copyright © 2018 Terzuolo Simone. All rights reserved.
 //
 
 #include "user.hpp"
 
-class User {
+User::User( int rssi, int timestamp, string mac ){
+    this->rssi.push_back(rssi);
+    this->timestamp.push_back(timestamp);
+    this->mac=mac;
     
-public:
-    User( int rssi, int timestamp,string mac ){
-        this->rssi.push_back(rssi);
-        this->rssi.push_back(timestamp);
-        this->mac=mac;
-        
-    }
-    
-    void append_prob(int rssi, int timestamp){
-        this->rssi.push_back(rssi);
-        this->rssi.push_back(timestamp);
-    }
+}
 
+void User::append_prob(int rssi, int timestamp){
+    this->rssi.push_back(rssi);
+    this->timestamp.push_back(timestamp);
+}
+
+int User::get_n_prob()
+{
+    return (int) rssi.size();
+};
+
+string User::get_mac(){
+    return mac;
 };
