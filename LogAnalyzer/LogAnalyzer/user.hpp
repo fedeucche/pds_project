@@ -12,7 +12,6 @@
 #include <stdio.h>
 #include <string>
 #include <vector>
-#endif /* user_hpp */
 
 using namespace std;
 
@@ -23,6 +22,10 @@ class User {
 public:
     User( int rssi, int timestamp,string mac );
     
-    
     void append_prob(int rssi, int timestamp);
+    int get_n_prob();
+    string get_mac();
+    
 };
+
+#endif /* user_hpp */
