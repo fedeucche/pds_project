@@ -21,9 +21,14 @@
 #include <cerrno>
 #include <iostream>
 #include <string>
+#include <chrono>
+#include <ctime>
 
 #include "lwip/err.h"
 #include "lwip/sys.h"
+
+using namespace std;
+using namespace std::chrono;
 
 extern "C" {
 	int app_main(void);
@@ -41,16 +46,19 @@ typedef struct{
 
 char send_out_buff[10000];
 int flag;
+high_resolution_clock::time_point startTime;
+double server_clock;
+double local_clock;
+char ip_server[] = "192.168.4.6";
 
 void client(){
     int sockfd = 0, n = 0;
-    char recvBuff[1024];
+    
     struct sockaddr_in serv_addr;
-
+    char recvBuff[50];
     memset(recvBuff, '0', sizeof(recvBuff));
 
-    if((sockfd = socket(AF_INET, SOCK_STREAM, 0)) < 0)
-    {
+    if((sockfd = socket(AF_INET, SOCK_STREAM, 0)) < 0){
         printf("\n Error : Could not create socket \n");
         return;
     } 
@@ -60,16 +68,15 @@ void client(){
     serv_addr.sin_family = AF_INET;
     serv_addr.sin_port = htons(15100); 
 
-    if(inet_pton(AF_INET, "192.168.4.3"/*"192.168.1.134"*/, &serv_addr.sin_addr)<=0)
-    {
+    if(inet_pton(AF_INET, ip_server, &serv_addr.sin_addr)<=0){
         printf("\n inet_pton error occured\n");
         return;
     } 
 
-    if( connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0)
-    {
+    if( connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0){
        printf("\n Error : Connect Failed \n");
        std::cout << strerror(errno) << std::endl;
+       close(sockfd);
        return;
     } 
     printf("size: %u\n", strlen(send_out_buff));
@@ -90,8 +97,8 @@ void client(){
     if(size_atoi >= dim){
 	    int x=0;
 	    int count=((size_atoi/dim)+1);
-	    printf("ATOI SIZE: %d\n", size_atoi);
-	    printf("COUNT: %d\n", count);
+	    /*printf("ATOI SIZE: %d\n", size_atoi);
+	    printf("COUNT: %d\n", count);*/
 	    char tmp[dim];
 	    int j;
 	    int i = 0;
@@ -107,23 +114,27 @@ void client(){
 			write(sockfd, tmp, strlen(tmp));
 	    }
     }
-    else{
-	    printf("PORCO IL DIO");
-            write(sockfd, send_out_buff, strlen(send_out_buff));
-    }
-    if((n = read(sockfd, recvBuff, sizeof(recvBuff)-1)) > 0)
-    {
+    else write(sockfd, send_out_buff, strlen(send_out_buff));
+
+    if((n = read(sockfd, recvBuff, sizeof(recvBuff)-1)) > 0){
         recvBuff[n] = 0;
+        local_clock = 0;
+        server_clock = 0;
+        char temp_local_clock_string[50];
+        printf("Server clock: ");
         if(fputs(recvBuff, stdout) == EOF)
-        {
             printf("\n Error : Fputs error\n");
-        }
-    } 
+        server_clock = atof(recvBuff);
+        printf("\n");
+        auto duration = chrono::high_resolution_clock::now() - startTime;
+        auto elapsedTime = duration_cast<milliseconds>(duration).count();
+        cout << "SERVER CLOCK: " << recvBuff << " LOCAL CLOCK: " << elapsedTime << endl;
+        sprintf(temp_local_clock_string, "%g", (double)elapsedTime);
+        local_clock = atof(temp_local_clock_string);
+    }
 
     if(n < 0)
-    {
         printf("\n Read error \n");
-    } 
     close(sockfd);
 }
 
@@ -143,18 +154,14 @@ void sniffer(void *buf, wifi_promiscuous_pkt_type_t type){
         wh->mac_src[3], wh->mac_src[4], wh->mac_src[5],
         wh->bssid[0], wh->bssid[1], wh->bssid[2],
         wh->bssid[3], wh->bssid[4], wh->bssid[5]);*/
+        double relative_timestamp = server_clock + (double)p->rx_ctrl.timestamp/1000 - local_clock;
+        //cout << "TIMESTAMP PKT: " << p->rx_ctrl.timestamp/1000 << " - LOCAL TIMESTAMP: " << local_clock << " REL_TIMESTAMP: " << relative_timestamp << endl;
         sprintf(tmp,
-            "RSSI: %d, TIMESTAMP: %u "
-            "MAC DST: %x:%x:%x:%x:%x:%x, "
-            "MAC SRC %x:%x:%x:%x:%x:%x, "
-            "BSSID: %x:%x:%x:%x:%x:%x\n\n",
-            (int)p->rx_ctrl.rssi, p->rx_ctrl.timestamp,
-            wh->mac_dst[0], wh->mac_dst[1], wh->mac_dst[2],
-            wh->mac_dst[3], wh->mac_dst[4], wh->mac_dst[5],
+            "%d,%g,"
+            "%x:%x:%x:%x:%x:%x\n",
+            (int)p->rx_ctrl.rssi, relative_timestamp,
             wh->mac_src[0], wh->mac_src[1], wh->mac_src[2],
-            wh->mac_src[3], wh->mac_src[4], wh->mac_src[5],
-            wh->bssid[0], wh->bssid[1], wh->bssid[2],
-            wh->bssid[3], wh->bssid[4], wh->bssid[5]);
+            wh->mac_src[3], wh->mac_src[4], wh->mac_src[5]);
         strcpy(send_out_buff+strlen(send_out_buff), tmp);
         //printf("\n SIZEOF BUF = %d\n", strlen(send_out_buff));
     }
@@ -171,7 +178,7 @@ void start_loop(){
         printf("CLIENT TURN\n");
         flag = 1;
         client();
-        vTaskDelay(7000 / portTICK_PERIOD_MS);
+        vTaskDelay(3000 / portTICK_PERIOD_MS);
      }
 }
 
@@ -192,22 +199,75 @@ switch(event->event_id) {
  return ESP_OK;
 }
 
+void get_and_set_time(){
+    startTime = chrono::high_resolution_clock::now();
+    int sockfd = 0, n = 0;
+    
+    struct sockaddr_in serv_addr;
+    char recvBuff[50];
+    memset(recvBuff, '0', sizeof(recvBuff));
+    char sendBuff[50];
+    memset(sendBuff, '0', sizeof(sendBuff));
+    if((sockfd = socket(AF_INET, SOCK_STREAM, 0)) < 0){
+        printf("\n Error : Could not create socket \n");
+        return;
+    } 
+
+    memset(&serv_addr, '0', sizeof(serv_addr)); 
+
+    serv_addr.sin_family = AF_INET;
+    serv_addr.sin_port = htons(15100); 
+
+    if(inet_pton(AF_INET, ip_server, &serv_addr.sin_addr)<=0){
+        printf("\n inet_pton error occured\n");
+        return;
+    } 
+
+    if( connect(sockfd, (struct sockaddr *)&serv_addr, sizeof(serv_addr)) < 0){
+       printf("\n Error : Connect Failed \n");
+       std::cout << strerror(errno) << std::endl;
+       close(sockfd);
+       return;
+    }
+    printf("\nCONNECTED LOL\n");
+
+    strcpy(sendBuff, "Give me your clock pleas");
+    write(sockfd, sendBuff, sizeof(sendBuff));
+
+    if((n = read(sockfd, recvBuff, sizeof(recvBuff)-1)) > 0){
+        recvBuff[n] = 0;
+        local_clock = 0;
+        server_clock = 0;
+        char temp_local_clock_string[50];
+        printf("Server clock: ");
+        if(fputs(recvBuff, stdout) == EOF)
+            printf("\n Error : Fputs error\n");
+        server_clock = atof(recvBuff);
+        printf("\n");
+        auto duration = chrono::high_resolution_clock::now() - startTime;
+        auto elapsedTime = duration_cast<milliseconds>(duration).count();
+        cout << "SERVER CLOCK: " << recvBuff << " LOCAL CLOCK: " << elapsedTime << endl;
+        sprintf(temp_local_clock_string, "%g", (double)elapsedTime);
+        local_clock = atof(temp_local_clock_string);
+    }
+    close(sockfd);
+}
+
 int app_main(void){
 	 nvs_flash_init();
 	 tcpip_adapter_init();
 	 ESP_ERROR_CHECK( esp_event_loop_init(event_handler, NULL) );
 	 wifi_init_config_t cfg = WIFI_INIT_CONFIG_DEFAULT();
 	 ESP_ERROR_CHECK(esp_wifi_init(&cfg) );
-
 	 wifi_config_t sta_config = { };
 	 strcpy((char*)sta_config.sta.ssid, "myssid");//"simosoneppe");
 	 strcpy((char*)sta_config.sta.password, "mypassword");//"Pamparato.11.7");
-
 	 ESP_ERROR_CHECK( esp_wifi_set_mode(WIFI_MODE_STA));
 	 ESP_ERROR_CHECK(esp_wifi_set_config(WIFI_IF_STA, &sta_config));
 	 ESP_ERROR_CHECK(esp_wifi_start());
      esp_wifi_set_channel(1, WIFI_SECOND_CHAN_NONE);
      esp_wifi_set_promiscuous_rx_cb(&sniffer);
+     get_and_set_time();
      start_loop();
  return 0;
 }
