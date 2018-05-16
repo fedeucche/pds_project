@@ -146,7 +146,7 @@ int main(int argc, char *argv[])
         bzero(sendBuff, sizeof(sendBuff));
         elapsedTime = ((double)(clock() - startTime)/CLOCKS_PER_SEC)*10000;
         cout<<"Responding Time: "<< elapsedTime <<"s"<< endl;
-        sprintf(sendBuff, "Time: %g s", elapsedTime);
+        sprintf(sendBuff, "%g", elapsedTime);
 
         write(connfd, sendBuff, strlen(sendBuff));
         close(connfd);
