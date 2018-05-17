@@ -17,7 +17,7 @@
 
 using namespace std;
 
-// 
+// PS. Ho cambiato i path dei file di entrata, se si lavora sul mac, bisogna ricambiarli (perché il mac è una merda)
 
 void analyzer(char filename[], string temp){
     //User *p[100];
