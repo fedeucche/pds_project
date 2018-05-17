@@ -57,6 +57,9 @@ char clock_request_protocol[] = "Give me your clock pleas";
  *		inviare sto madonna di protocollo di richiesta del clock finché il server non
  *		risponde e so on... 
  *
+ * PPPS. Al solito, ho cambiato i path dei file di entrata/uscita, se si lavora sul mac,
+ *	 bisogna ricambiarli (perché il mac è una merda)
+ *
  */
 
 int main(int argc, char *argv[]){
