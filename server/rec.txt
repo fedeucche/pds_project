@@ -1,0 +1,648 @@
+Server Session : 1
+
+-75,91554.3,60:f8:1d:c4:bd:ea
+-73,91554.3,60:f8:1d:c4:bd:ea
+-73,91554.3,60:f8:1d:c4:bd:ea
+-74,91571.4,60:f8:1d:c4:bd:ea
+-74,91571.4,60:f8:1d:c4:bd:ea
+-74,91571.4,60:f8:1d:c4:bd:ea
+
+Server Session : 2
+
+
+Server Session : 3
+
+
+Server Session : 4
+
+-67,10957.3,60:f8:1d:c4:bd:ea
+-67,10957.3,60:f8:1d:c4:bd:ea
+-67,11057.4,60:f8:1d:c4:bd:ea
+
+Server Session : 5
+
+-67,9008.16,60:f8:1d:c4:bd:ea
+-66,9008.16,60:f8:1d:c4:bd:ea
+-66,9022.04,60:f8:1d:c4:bd:ea
+
+Server Session : 6
+
+
+Server Session : 7
+
+
+Server Session : 8
+
+-66,13828.8,ba:59:c5:9c:77:d9
+
+Server Session : 9
+
+-76,12060.9,ba:59:c5:9c:77:d9
+-66,14523.5,60:f8:1d:c4:bd:ea
+-67,14547.1,60:f8:1d:c4:bd:ea
+
+Server Session : 10
+
+-70,9889.93,60:f8:1d:c4:bd:ea
+-71,9889.93,60:f8:1d:c4:bd:ea
+-67,13464.8,60:f8:1d:c4:bd:ea
+-67,13464.8,60:f8:1d:c4:bd:ea
+
+Server Session : 11
+
+-70,11606.7,60:f8:1d:c4:bd:ea
+-71,11630.4,60:f8:1d:c4:bd:ea
+
+Server Session : 12
+
+
+Server Session : 13
+
+-94,10445.7,48:86:e8:76:4c:e0
+-94,10556.7,48:86:e8:76:4c:e0
+
+Server Session : 14
+
+
+Server Session : 15
+
+-83,10508.7,c0:ee:fb:d3:42:3d
+-83,10525.2,c0:ee:fb:d3:42:3d
+
+Server Session : 16
+
+
+Server Session : 17
+
+
+Server Session : 18
+
+-67,8519.23,ba:59:c5:9c:77:d9
+-90,10310.7,8:9e:8:4b:40:a1
+-92,10310.7,8:9e:8:4b:40:a1
+-85,10310.7,8:9e:8:4b:40:a1
+-90,10351.1,8:9e:8:4b:40:a1
+-88,10351.1,8:9e:8:4b:40:a1
+
+Server Session : 19
+
+-88,8402.69,8:9e:8:4b:40:a1
+-84,8417.57,8:9e:8:4b:40:a1
+-88,10448.6,20:df:b9:38:41:fe
+-87,10448.6,20:df:b9:38:41:fe
+-94,10455.8,20:df:b9:38:41:fe
+-89,10455.8,20:df:b9:38:41:fe
+-91,10455.8,20:df:b9:38:41:fe
+
+Server Session : 20
+
+-79,8965.14,c0:ee:fb:d3:42:3d
+-79,8965.14,c0:ee:fb:d3:42:3d
+
+Server Session : 21
+
+
+Server Session : 22
+
+
+Server Session : 23
+
+
+Server Session : 24
+
+
+Server Session : 25
+
+-83,12285.2,a6:16:a1:e0:f6:2a
+
+Server Session : 26
+
+-79,9503.14,4e:f6:c8:8a:d3:6e
+-68,12894.8,ba:59:c5:9c:77:d9
+
+Server Session : 27
+
+-75,10090.6,ba:59:c5:9c:77:d9
+
+Server Session : 28
+
+-80,11418.4,28:5a:eb:5d:25:2
+-81,11418.4,28:5a:eb:5d:25:2
+
+Server Session : 29
+
+-75,8657.11,28:5a:eb:5d:25:2
+-76,8665.85,28:5a:eb:5d:25:2
+
+Server Session : 30
+
+
+Server Session : 31
+
+-89,9002.7,44:6d:57:39:f2:e0
+
+Server Session : 32
+
+
+Server Session : 33
+
+
+Server Session : 34
+
+
+Server Session : 35
+
+-77,14913.8,ba:59:c5:9c:77:d9
+
+Server Session : 36
+
+-85,9658.3,60:f6:77:1a:97:e4
+
+Server Session : 37
+
+
+Server Session : 38
+
+
+Server Session : 39
+
+
+Server Session : 40
+
+
+Server Session : 41
+
+
+Server Session : 42
+
+-77,13356.7,12:18:6b:33:36:21
+
+Server Session : 43
+
+-81,9501.71,12:18:6b:33:36:21
+
+Server Session : 44
+
+-67,12445.4,ba:59:c5:9c:77:d9
+
+Server Session : 45
+
+-72,8570.65,ba:59:c5:9c:77:d9
+
+Server Session : 46
+
+-84,10609,da:a1:19:29:1a:c8
+-85,10609,da:a1:19:29:1a:c8
+
+Server Session : 47
+
+-72,13589.9,4:e6:76:8d:31:5d
+
+Server Session : 48
+
+
+Server Session : 49
+
+
+Server Session : 50
+
+-86,9604.7,c0:ee:fb:d3:42:3d
+-88,9701.06,c0:ee:fb:d3:42:3d
+
+Server Session : 51
+
+
+Server Session : 52
+
+
+Server Session : 53
+
+
+Server Session : 54
+
+
+Server Session : 55
+
+-76,13076,28:5a:eb:5d:25:2
+
+Server Session : 56
+
+-64,10436.9,94:65:2d:d4:6e:1
+
+Server Session : 57
+
+
+Server Session : 58
+
+
+Server Session : 59
+
+
+Server Session : 60
+
+-85,9630.73,c0:ee:fb:d3:42:3d
+
+Server Session : 61
+
+
+Server Session : 62
+
+
+Server Session : 63
+
+
+Server Session : 64
+
+
+Server Session : 65
+
+-85,15010.6,8:9e:8:4b:40:a1
+-85,15010.6,8:9e:8:4b:40:a1
+-87,15010.6,8:9e:8:4b:40:a1
+-85,15010.6,8:9e:8:4b:40:a1
+-80,15010.6,8:9e:8:4b:40:a1
+-87,15035.1,8:9e:8:4b:40:a1
+
+Server Session : 66
+
+
+Server Session : 67
+
+
+Server Session : 68
+
+
+Server Session : 69
+
+
+Server Session : 70
+
+
+Server Session : 71
+
+
+Server Session : 72
+
+
+Server Session : 73
+
+
+Server Session : 74
+
+
+Server Session : 75
+
+
+Server Session : 76
+
+
+Server Session : 77
+
+
+Server Session : 78
+
+
+Server Session : 79
+
+
+Server Session : 80
+
+-66,10608.2,46:a3:f5:b:97:bd
+
+Server Session : 81
+
+
+Server Session : 82
+
+
+Server Session : 83
+
+-96,12378.5,20:df:b9:38:41:fe
+
+Server Session : 84
+
+
+Server Session : 85
+
+-93,10132,20:df:b9:38:41:fe
+-90,10132,20:df:b9:38:41:fe
+-90,10140,20:df:b9:38:41:fe
+-90,13709,20:df:b9:38:41:fe
+-92,13709,20:df:b9:38:41:fe
+-92,13725,20:df:b9:38:41:fe
+-92,13725,20:df:b9:38:41:fe
+
+Server Session : 86
+
+
+Server Session : 87
+
+
+Server Session : 88
+
+
+Server Session : 89
+
+-86,13990.9,8:9e:8:4b:40:a1
+-86,13990.9,8:9e:8:4b:40:a1
+-85,13990.9,8:9e:8:4b:40:a1
+-84,13998.4,8:9e:8:4b:40:a1
+-87,13998.4,8:9e:8:4b:40:a1
+
+Server Session : 90
+
+-84,10779.9,da:a1:19:d5:64:45
+-77,10794.7,da:a1:19:d5:64:45
+-89,11053.4,da:a1:19:d5:64:45
+-60,13189.9,da:a1:19:4:f9:41
+-60,13189.9,da:a1:19:4:f9:41
+-60,13189.9,da:a1:19:4:f9:41
+-61,13189.9,da:a1:19:4:f9:41
+-61,13189.9,da:a1:19:4:f9:41
+-63,13217.1,da:a1:19:4:f9:41
+-64,13221.8,da:a1:19:4:f9:41
+-65,13224.7,da:a1:19:4:f9:41
+-89,13286.1,da:a1:19:4:f9:41
+-92,13494.9,da:a1:19:4:f9:41
+
+Server Session : 91
+
+-68,9823.54,da:a1:19:4:f9:41
+-68,9823.54,da:a1:19:4:f9:41
+-69,9829.62,da:a1:19:4:f9:41
+-70,9829.62,da:a1:19:4:f9:41
+-73,9829.62,da:a1:19:4:f9:41
+-75,9855.53,da:a1:19:4:f9:41
+-77,9858.51,da:a1:19:4:f9:41
+
+Server Session : 92
+
+-90,9825.62,c0:ee:fb:d3:42:3d
+-90,9825.62,c0:ee:fb:d3:42:3d
+
+Server Session : 93
+
+
+Server Session : 94
+
+
+Server Session : 95
+
+
+Server Session : 96
+
+
+Server Session : 97
+
+
+Server Session : 98
+
+-68,9965.57,46:a3:f5:b:97:bd
+-85,12431,c0:ee:fb:d3:42:3d
+-83,12565.6,c0:ee:fb:d3:42:3d
+
+Server Session : 99
+
+
+Server Session : 100
+
+
+Server Session : 101
+
+
+Server Session : 102
+
+
+Server Session : 103
+
+-91,11620,44:6d:57:39:f2:e0
+
+Server Session : 104
+
+-92,12578.6,c0:ee:fb:d3:42:3d
+
+Server Session : 105
+
+-95,9117.86,48:86:e8:76:4c:e0
+-93,9493.93,c0:ee:fb:d3:42:3d
+
+Server Session : 106
+
+-69,14863.8,4:e6:76:8d:31:5d
+-72,14863.8,46:a3:f5:b:97:bd
+-67,14863.8,4:e6:76:8d:31:5d
+
+Server Session : 107
+
+-68,11848.4,4:e6:76:8d:31:5d
+-72,11888.6,46:a3:f5:b:97:bd
+
+Server Session : 108
+
+
+Server Session : 109
+
+-92,9827.84,20:df:b9:38:41:fe
+-93,9843.88,20:df:b9:38:41:fe
+-86,11929.2,8:9e:8:4b:40:a1
+-86,11929.2,8:9e:8:4b:40:a1
+-75,14904.7,28:5a:eb:5d:25:2
+
+Server Session : 110
+
+-90,8846.09,c0:ee:fb:d3:42:3d
+-88,8846.09,c0:ee:fb:d3:42:3d
+
+Server Session : 111
+
+
+Server Session : 112
+
+
+Server Session : 113
+
+-88,13555.2,8:9e:8:4b:40:a1
+-89,13564.6,8:9e:8:4b:40:a1
+-87,13570.8,8:9e:8:4b:40:a1
+
+Server Session : 114
+
+
+Server Session : 115
+
+
+Server Session : 116
+
+-68,9630.83,46:a3:f5:b:97:bd
+
+Server Session : 117
+
+
+Server Session : 118
+
+-60,8882.06,da:a1:19:45:5b:47
+-61,8882.06,da:a1:19:45:5b:47
+-60,8882.06,da:a1:19:45:5b:47
+-61,8882.06,da:a1:19:45:5b:47
+-61,8882.06,da:a1:19:45:5b:47
+-91,9413.78,da:a1:19:45:5b:47
+-83,13169.6,da:a1:19:8b:88:f
+-80,13169.6,da:a1:19:8b:88:f
+-76,13169.6,da:a1:19:8b:88:f
+-93,13494.5,da:a1:19:8b:88:f
+-90,13494.5,da:a1:19:8b:88:f
+-91,13494.5,da:a1:19:8b:88:f
+
+Server Session : 119
+
+-74,10235.4,da:a1:19:8b:88:f
+-71,10246.5,da:a1:19:8b:88:f
+-70,10256.7,da:a1:19:8b:88:f
+-69,10256.7,da:a1:19:8b:88:f
+
+Server Session : 120
+
+-62,8839.77,da:a1:19:64:21:d4
+-61,8839.77,da:a1:19:64:21:d4
+-62,8839.77,da:a1:19:64:21:d4
+-61,8839.77,da:a1:19:64:21:d4
+-61,8839.77,da:a1:19:64:21:d4
+-71,8964.22,da:a1:19:4:b1:ff
+-70,8964.22,da:a1:19:4:b1:ff
+-69,8964.22,da:a1:19:4:b1:ff
+-68,8964.22,da:a1:19:4:b1:ff
+-69,8964.22,da:a1:19:4:b1:ff
+-68,8964.22,da:a1:19:4:b1:ff
+-69,8964.22,da:a1:19:4:b1:ff
+-69,9171.36,da:a1:19:4:b1:ff
+-71,9171.36,da:a1:19:4:b1:ff
+-92,9413.05,da:a1:19:4:b1:ff
+-90,9440.91,da:a1:19:64:21:d4
+-93,9440.91,da:a1:19:64:21:d4
+-90,9440.91,da:a1:19:4:b1:ff
+-93,9440.91,da:a1:19:4:b1:ff
+
+Server Session : 121
+
+-58,13214.2,da:a1:19:65:7b:f7
+-58,13229.2,da:a1:19:65:7b:f7
+-58,13229.2,da:a1:19:65:7b:f7
+-58,13247.2,da:a1:19:65:7b:f7
+-89,13775.7,da:a1:19:65:7b:f7
+
+Server Session : 122
+
+-61,9621.6,da:a1:19:b3:73:61
+-61,9621.6,da:a1:19:b3:73:61
+-62,9621.6,da:a1:19:b3:73:61
+-93,10200.4,da:a1:19:b3:73:61
+-70,13095.9,da:a1:19:81:d1:f1
+-69,13095.9,da:a1:19:81:d1:f1
+-68,13095.9,da:a1:19:81:d1:f1
+-69,13145.7,da:a1:19:81:d1:f1
+-83,13145.7,da:a1:19:81:d1:f1
+-84,13145.7,da:a1:19:81:d1:f1
+-95,14466.5,c0:ee:fb:d3:42:3d
+
+Server Session : 123
+
+-62,10119.5,da:a1:19:81:d1:f1
+-62,10127.7,da:a1:19:81:d1:f1
+-61,10134.6,da:a1:19:81:d1:f1
+-59,10157.5,da:a1:19:81:d1:f1
+-85,11537.7,c0:ee:fb:d3:42:3d
+
+Server Session : 124
+
+-66,14509.8,46:a3:f5:b:97:bd
+
+Server Session : 125
+
+-73,11573.4,46:a3:f5:b:97:bd
+
+Server Session : 126
+
+-86,12174.5,da:a1:19:71:a3:ae
+
+Server Session : 127
+
+-92,9592.02,da:a1:19:71:a3:ae
+-85,10956,c0:ee:fb:d3:42:3d
+
+Server Session : 1
+
+
+Server Session : 2
+
+
+Server Session : 3
+
+
+Server Session : 4
+
+-89,8942.75,c0:ee:fb:d3:42:3d
+-92,8942.75,c0:ee:fb:d3:42:3d
+
+Server Session : 5
+
+-92,9462.55,20:df:b9:38:41:fe
+-94,9505.05,20:df:b9:38:41:fe
+
+Server Session : 6
+
+-66,9445.38,46:a3:f5:b:97:bd
+-69,11656.3,4c:fb:45:c4:48:7a
+-69,11656.3,4c:fb:45:c4:48:7a
+-69,11656.3,4c:fb:45:c4:48:7a
+-71,11656.3,4c:fb:45:c4:48:7a
+
+Server Session : 7
+
+-73,8598.59,4c:fb:45:c4:48:7a
+-76,8598.59,4c:fb:45:c4:48:7a
+-73,8598.59,4c:fb:45:c4:48:7a
+-86,8657.47,4c:fb:45:c4:48:7a
+
+Server Session : 8
+
+-87,9989.09,da:a1:19:6a:ef:a3
+-62,10401.1,da:a1:19:75:cc:80
+-60,10426.9,da:a1:19:75:cc:80
+-94,11058,da:a1:19:c4:e4:98
+-67,11725.5,4c:fb:45:c4:48:7a
+-68,11725.5,4c:fb:45:c4:48:7a
+-68,11725.5,4c:fb:45:c4:48:7a
+-91,12091.3,4c:fb:45:c4:48:7a
+-82,14383,28:5a:eb:5d:25:2
+-83,14383,28:5a:eb:5d:25:2
+
+Server Session : 1
+
+
+Server Session : 2
+
+
+Server Session : 3
+
+-90,9949.87,da:a1:19:2c:bb:f1
+
+Server Session : 4
+
+-87,10725.5,c0:ee:fb:d3:42:3d
+
+Server Session : 5
+
+-66,14298.9,46:a3:f5:b:97:bd
+
+Server Session : 6
+
+-73,11248.7,46:a3:f5:b:97:bd
+-86,12459.7,c0:ee:fb:d3:42:3d
+-86,12475,c0:ee:fb:d3:42:3d
+
+Server Session : 7
+
+
+Server Session : 8
+
+

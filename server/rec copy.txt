@@ -1,0 +1,1327 @@
+Server Session : 1
+
+RSSI: -69, TIMESTAMP: 5770935 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 5770935 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 5770935 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 5770935 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 1
+
+RSSI: -90, TIMESTAMP: 5729614 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC e8:94:f6:27:4a:74, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 8580495 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c:1b:1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -86, TIMESTAMP: 8587532 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c:1b:1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 13001793 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -66, TIMESTAMP: 13093500 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 2
+
+RSSI: -86, TIMESTAMP: 27025939 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC ea:4a:bf:42:e5:8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 31748401 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:92:e:cc:90:e6, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 32575858 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 4a:9d:67:30:78:1b, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 36436250 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 36478078 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 40303273 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 3
+
+RSSI: -70, TIMESTAMP: 59826497 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 59834874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC ae:a3:1a:5a:d6:63, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 59868961 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 62261245 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 62261245 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 62261245 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 62261245 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 62261245 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 4
+
+RSSI: -68, TIMESTAMP: 83048773 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 85928082 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC e8:94:f6:27:4a:74, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 5
+
+RSSI: -84, TIMESTAMP: 104817441 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -84, TIMESTAMP: 104827258 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -85, TIMESTAMP: 104827258 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -78, TIMESTAMP: 106672700 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 106703317 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 107163339 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 107163339 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 107163339 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 107163339 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 107717921 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -79, TIMESTAMP: 112816180 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 5c:ac:4c:af:73:c0, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 6
+
+RSSI: -76, TIMESTAMP: 130131338 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 133128255 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:92:e:cc:90:e6, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 133155074 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:92:e:cc:90:e6, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -62, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 139263318 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 7
+
+RSSI: -81, TIMESTAMP: 153443019 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -80, TIMESTAMP: 153480082 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 156952168 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:57:6:b5, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -45, TIMESTAMP: 156952168 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:57:6:b5, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 162016195 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC ea:4a:bf:42:e5:8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 164208656 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 164208656 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 8
+
+RSSI: -75, TIMESTAMP: 176832030 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 189520555 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 189520555 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 190074074 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 190074074 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 190074074 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -86, TIMESTAMP: 190610041 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:d2:24:d5:f5:ef, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 1
+
+RSSI: -45, TIMESTAMP: 7167413 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 7167413 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -45, TIMESTAMP: 7167413 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -45, TIMESTAMP: 7189767 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -46, TIMESTAMP: 7189767 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -45, TIMESTAMP: 7189767 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 7345500 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 7431396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 8756746 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 8756746 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 8767942 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 8767942 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 54:60:9:b1:b7:30, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 12384744 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 42:96:f9:3e:4:8e, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 12401453 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 42:96:f9:3e:4:8e, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 2
+
+RSSI: -44, TIMESTAMP: 26224409 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 26224409 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 26224409 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 26237627 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 26237627 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 26237627 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 26485299 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 26485299 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 26493934 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 33669703 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 33670951 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 33670951 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 33670951 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 35733211 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 35733211 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 35733211 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -44, TIMESTAMP: 35758262 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 35758262 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 35758262 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 35981136 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 35981136 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 35981136 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -82, TIMESTAMP: 36837267 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC ce:b9:f3:37:c3:ae, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 36981291 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 6e:58:d1:d:fb:29, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 1
+
+RSSI: -50, TIMESTAMP: 8025568 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -50, TIMESTAMP: 8028442 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -50, TIMESTAMP: 8028442 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -51, TIMESTAMP: 8028442 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -50, TIMESTAMP: 8217868 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -51, TIMESTAMP: 8217868 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 8529631 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 8529631 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 8553984 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC b0:10:41:90:9e:12, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 11263000 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 11263000 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 13127083 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -85, TIMESTAMP: 13159257 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 2
+
+RSSI: -93, TIMESTAMP: 31488515 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:3c:2:99, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 32321551 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 2e:45:2c:2:ba:5d, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 40064741 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:51:a8:64, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 40069605 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:51:a8:64, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 40074682 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:51:a8:64, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 40074682 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:51:a8:64, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 3
+
+RSSI: -94, TIMESTAMP: 55326789 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 6c:71:d9:5d:3d:4f, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -78, TIMESTAMP: 56694574 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:d2:24:d5:f5:ef, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 59494121 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 59494121 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -86, TIMESTAMP: 59633458 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 59633458 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -85, TIMESTAMP: 59633458 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -85, TIMESTAMP: 59710461 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 64518398 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 65130532 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC e8:94:f6:27:4a:74, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 4
+
+RSSI: -71, TIMESTAMP: 76486186 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 76486186 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 78803235 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -79, TIMESTAMP: 78803235 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 82513124 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC de:e6:3e:35:d2:c2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -65, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 89540842 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 89554032 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 89554032 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 5c:ac:4c:af:73:c0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 90294365 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 90294365 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 5
+
+RSSI: -78, TIMESTAMP: 116712850 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:d2:24:d5:f5:ef, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 6
+
+RSSI: -93, TIMESTAMP: 135757610 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 6c:71:d9:5d:3d:4f, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 136108487 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 78:2:f8:bc:85:45, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 139587452 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:0:ba:8b:1:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 139587452 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:0:ba:8b:1:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -82, TIMESTAMP: 139891737 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -83, TIMESTAMP: 139891737 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 140149859 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 7
+
+RSSI: -92, TIMESTAMP: 164501339 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 167596425 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:ee:8b:60:55:c1, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 8
+
+RSSI: -75, TIMESTAMP: 182550240 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 5c:ac:4c:af:73:c0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 182562705 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 5c:ac:4c:af:73:c0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 184564494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 184564494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 184564494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 184564494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 184564494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 185375126 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 9
+
+RSSI: -88, TIMESTAMP: 204788632 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 204788632 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 204788632 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -59, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -60, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -59, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -59, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -60, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -59, TIMESTAMP: 209535874 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -81, TIMESTAMP: 213823220 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -80, TIMESTAMP: 213823220 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 217456030 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c:8f:ff:5e:2c:4b, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 10
+
+RSSI: -80, TIMESTAMP: 236711682 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:d2:24:d5:f5:ef, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 236732616 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:d2:24:d5:f5:ef, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 11
+
+RSSI: -87, TIMESTAMP: 266687222 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -84, TIMESTAMP: 266736176 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 84:9f:b5:a7:d4:82, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 266846651 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 78:2:f8:bc:85:45, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 266962888 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 78:2:f8:bc:85:45, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 268327018 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:74:ca:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 269044602 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 269044602 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 0:26:c7:80:e2:40, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 12
+
+RSSI: -93, TIMESTAMP: 284190540 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 6c:71:d9:5d:3d:4f, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 284532264 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 284532264 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 284532264 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 13
+
+RSSI: -41, TIMESTAMP: 308538715 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 308538715 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 308559520 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 308559520 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 308559520 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 308559520 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 308782735 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 312401109 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:0:ba:8b:1:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 313147669 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -76, TIMESTAMP: 313147669 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 313147669 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 313147669 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC f4:f5:d8:e3:e2:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 313374422 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c5:c6:95, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -54, TIMESTAMP: 318078126 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -54, TIMESTAMP: 318078126 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -55, TIMESTAMP: 318078126 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -55, TIMESTAMP: 318112401 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -78, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -79, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -80, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -78, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -78, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -79, TIMESTAMP: 318388202 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 1
+
+
+Server Session : 2
+
+
+Server Session : 3
+
+RSSI: -84, TIMESTAMP: 64192666 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -88, TIMESTAMP: 64192666 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 64192666 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 20:df:b9:38:41:fe, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 4
+
+RSSI: -38, TIMESTAMP: 84211501 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -36, TIMESTAMP: 84211501 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -36, TIMESTAMP: 84211501 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 84255395 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 84255395 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 84255395 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 84495685 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 5
+
+RSSI: -71, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 93941111 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -76, TIMESTAMP: 99284654 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 99284654 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 6
+
+
+Server Session : 7
+
+RSSI: -70, TIMESTAMP: 124163062 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 127420523 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 127420523 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 127675034 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 127681687 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 129013745 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 129013745 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 129013745 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 129037695 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 129037695 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 129037695 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 130125720 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 130125720 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 130125720 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 130125
+
+720 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 131633788 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 131659005 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 132071137 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 132071137 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -62, TIMESTAMP: 132226715 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 132226715 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 8
+
+RSSI: -42, TIMESTAMP: 140965612 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 140965612 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 140965612 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 141120454 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 141120454 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 141120454 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 141307978 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 141307978 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 145810701 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 2a:8b:8e:56:5c:18, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 9
+
+RSSI: -47, TIMESTAMP: 156789337 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -46, TIMESTAMP: 156789337 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -47, TIMESTAMP: 156789337 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -65, TIMESTAMP: 157093444 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 157093444 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 157146330 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 157245530 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:31:e2:d8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 159917049 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 159917049 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 159917049 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 159977408 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 159977408 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 159977408 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 160176241 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 10
+
+RSSI: -52, TIMESTAMP: 172835381 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -52, TIMESTAMP: 172835381 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -52, TIMESTAMP: 172869132 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 173155502 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -76, TIMESTAMP: 173635401 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 173661269 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -76, TIMESTAMP: 173661269 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:c9:bb:f8, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 11
+
+RSSI: -39, TIMESTAMP: 188172036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 188172036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 188172036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 188226333 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 188226333 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 188226333 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -52, TIMESTAMP: 188262581 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -53, TIMESTAMP: 188404770 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -47, TIMESTAMP: 188404770 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 188427503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 188427503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 188427503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 188482048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 188482048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 188482048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 189204396 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 189224317 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 189224317 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:cf:d8:fb, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 12
+
+RSSI: -31, TIMESTAMP: 201216420 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f6:77:1a:97:e4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -60, TIMESTAMP: 201442177 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f6:77:1a:97:e4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -94, TIMESTAMP: 203650050 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 44:6d:57:39:f2:e0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -86, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 206980580 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 207266469 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 13
+
+RSSI: -39, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 216505976 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 216786102 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 221476762 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 48:86:e8:76:4c:e0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 222890653 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -95, TIMESTAMP: 222890653 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -94, TIMESTAMP: 222970031 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 222993854 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 222993854 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 14
+
+RSSI: -75, TIMESTAMP: 234279559 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 234297642 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 68:fb:7e:68:2b:47, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -65, TIMESTAMP: 235393548 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 235517073 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 235517073 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 235517073 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 235539456 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 235539456 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 235539456 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -66, TIMESTAMP: 235639085 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 235639085 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 235778673 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 235778673 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 235778673 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 235778673 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -94, TIMESTAMP: 235919043 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 15
+
+RSSI: -42, TIMESTAMP: 2305022 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 2305022 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 2305022 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 2341973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 2341973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 2341973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 2528724 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 11830519 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 12065232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 12065232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 12065232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 12105135 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 12105135 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 12105135 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 14307494 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 14321210 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -65, TIMESTAMP: 14454087 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 14456961 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 14666256 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 14666256 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 18977225 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC d0:81:7a:ca:22:a, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 18977225 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC d0:81:7a:ca:22:a, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 18977225 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC d0:81:7a:ca:22:a, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 21295227 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 21295227 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 21295227 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 21345917 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 21345917 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 21345917 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 21345917 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 21566417 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 21566417 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 21566417 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 21566417 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 22974354 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 23021444 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 23158099 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 23158099 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 23426779 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -43, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 30886503 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 31088901 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -76, TIMESTAMP: 31088901 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 31088901 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 31088901 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 31088901 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -66, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -66, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -67, TIMESTAMP: 38526253 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 8:9e:8:4b:40:a1, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 40430048 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 40685968 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 40685968 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 40685968 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 40685968 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 40685968 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 49904775 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 49904775 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 49904775 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 49940562 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 49940562 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 49940562 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 50160609 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 50160609 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 50160609 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 50160609 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 16
+
+RSSI: -40, TIMESTAMP: 7827134 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 7827134 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 7827134 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 7851807 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 7851807 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 7851807 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 8074807 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 8074807 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 17239676 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 17239676 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 17239676 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 17269194 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 17269194 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 17269194 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 17499611 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 17499611 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 17510698 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 20033988 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 20089118 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -89, TIMESTAMP: 20103143 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 20124907 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 20185670 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 20201832 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -90, TIMESTAMP: 20231109 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 26713993 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 26713993 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 26713993 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 26742710 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 26742710 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 26742710 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 26943207 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 26943207 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 26943207 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 26991133 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -42, TIMESTAMP: 36161858 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 36161858 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 36161858 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 36200364 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 36200364 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 36200364 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 36479060 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 36479060 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -65, TIMESTAMP: 39927059 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -64, TIMESTAMP: 39951007 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -63, TIMESTAMP: 40078891 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -62, TIMESTAMP: 40078891 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -91, TIMESTAMP: 40337774 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 28:5a:eb:5d:25:2, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -68, TIMESTAMP: 42453138 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 24:92:e:cc:90:e6, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -87, TIMESTAMP: 45222686 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:86:5a:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -86, TIMESTAMP: 45326895 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:86:5a:70, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 45647040 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 45647040 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 45647040 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 45744429 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 45744429 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 45911024 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 45990835 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 45990835 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 45990835 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 45990835 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 45990835 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 46014975 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+
+Server Session : 17
+
+RSSI: -48, TIMESTAMP: 2983155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -48, TIMESTAMP: 2983155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -47, TIMESTAMP: 2983155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -49, TIMESTAMP: 2983155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -80, TIMESTAMP: 3575134 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -82, TIMESTAMP: 3575134 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:89:ce:85, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 4615973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 4615973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 4615973 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 4663155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 4663155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 4663155 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 4879124 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 4879124 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 4929830 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 4929830 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 4929830 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -50, TIMESTAMP: 6140163 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:15:cc:44, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -49, TIMESTAMP: 6146559 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:15:cc:44, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -49, TIMESTAMP: 6146559 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:15:cc:44, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -79, TIMESTAMP: 6918955 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:15:cc:44, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -77, TIMESTAMP: 6918955 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:15:cc:44, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -36, TIMESTAMP: 13012281 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -35, TIMESTAMP: 13012281 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 13012281 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -37, TIMESTAMP: 13012281 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 13012281 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -70, TIMESTAMP: 13599045 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 13599045 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -69, TIMESTAMP: 13599045 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:2f:f4:d4, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 14115404 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 14115404 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 14115404 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 14191036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 14191036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 14191036 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -72, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -71, TIMESTAMP: 14396115 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 23662930 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 23662930 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 23662930 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 23716174 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 23716174 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 23716174 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 23910708 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 23910708 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 25449026 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 44:6d:57:39:f2:e0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 25462891 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 44:6d:57:39:f2:e0, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -94, TIMESTAMP: 32988305 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -92, TIMESTAMP: 32988305 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -94, TIMESTAMP: 32988305 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 33187846 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -93, TIMESTAMP: 33187846 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC c8:d7:b0:6b:71:72, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 33187846 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -38, TIMESTAMP: 33187846 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 33187846 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 33269796 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 33269796 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -39, TIMESTAMP: 33269796 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -75, TIMESTAMP: 33500112 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 33500112 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 33500112 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -74, TIMESTAMP: 33500112 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 33500112 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 42555870 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 42555870 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 42555870 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 42728556 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -40, TIMESTAMP: 42728556 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -41, TIMESTAMP: 42728556 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -52, TIMESTAMP: 42884010 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:f9:26:ca, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -51, TIMESTAMP: 42884010 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:f9:26:ca, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -49, TIMESTAMP: 42921232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:f9:26:ca, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 42921232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -73, TIMESTAMP: 42921232 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC 60:f8:1d:c4:bd:ea, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -83, TIMESTAMP: 43157294 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:f9:26:ca, BSSID: ff:ff:ff:ff:ff:ff
+
+RSSI: -82, TIMESTAMP: 43157294 MAC DST: ff:ff:ff:ff:ff:ff, MAC SRC da:a1:19:f9:26:ca, BSSID: ff:ff:ff:ff:ff:ff
+
+

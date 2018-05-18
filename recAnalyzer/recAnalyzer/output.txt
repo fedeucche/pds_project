@@ -1,0 +1,2151 @@
+ESP numero:50636992
+
+94:65:2d:d4:6e:1 
+
+Creating New User nr.0 
+
+da:a1:19:93:81:96 
+
+Creating New User nr.1 
+
+da:a1:19:93:81:96 
+
+MAC already in List
+Appending Probe Request to user Nr. 1
+Numero di Probe Request inviate:2
+
+
+da:a1:19:93:81:96 
+
+MAC already in List
+Appending Probe Request to user Nr. 1
+Numero di Probe Request inviate:3
+
+
+f8:a9:d0:4c:e6:68 
+
+Creating New User nr.2 
+
+f8:a9:d0:4c:e6:68 
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:2
+
+
+5c:c3:7:30:5f:c3 
+
+Creating New User nr.3 
+
+5c:c3:7:30:5f:c3 
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:2
+
+
+ca:ff:29:4:f4:6e 
+
+Creating New User nr.4 
+
+ca:ff:29:4:f4:6e 
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:2
+
+
+94:65:2d:d4:6e:1 
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:2
+
+
+94:65:2d:d4:6e:1 
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:3
+
+
+94:65:2d:d4:6e:1 
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:4
+
+
+94:65:2d:d4:6e:1 
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:5
+
+
+4:e6:76:8d:31:5d 
+
+Creating New User nr.5 
+
+4:e6:76:8d:31:5d 
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:2
+
+
+da:a1:19:81:ad:d0 
+
+Creating New User nr.6 
+
+da:a1:19:81:ad:d0 
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:2
+
+
+da:a1:19:81:ad:d0 
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:3
+
+
+da:a1:19:81:ad:d0 
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:4
+
+
+da:a1:19:81:ad:d0 
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:5
+
+
+da:a1:19:81:ad:d0 
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:6
+
+
+Dispositivo:0: 94:65:2d:d4:6e:1  ha inviato 5 Prob Request
+Dispositivo:1: da:a1:19:93:81:96  ha inviato 3 Prob Request
+Dispositivo:2: f8:a9:d0:4c:e6:68  ha inviato 2 Prob Request
+Dispositivo:3: 5c:c3:7:30:5f:c3  ha inviato 2 Prob Request
+Dispositivo:4: ca:ff:29:4:f4:6e  ha inviato 2 Prob Request
+Dispositivo:5: 4:e6:76:8d:31:5d  ha inviato 2 Prob Request
+Dispositivo:6: da:a1:19:81:ad:d0  ha inviato 6 Prob Request
+ESP numero:506369923
+
+94:65:2d:d4:6e:1
+
+Creating New User nr.0 
+
+da:a1:19:93:81:96
+
+Creating New User nr.1 
+
+da:a1:19:93:81:96
+
+MAC already in List
+Appending Probe Request to user Nr. 1
+Numero di Probe Request inviate:2
+
+
+da:a1:19:93:81:96
+
+MAC already in List
+Appending Probe Request to user Nr. 1
+Numero di Probe Request inviate:3
+
+
+f8:a9:d0:4c:e6:68
+
+Creating New User nr.2 
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:2
+
+
+5c:c3:7:30:5f:c3
+
+Creating New User nr.3 
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:2
+
+
+ca:ff:29:4:f4:6e
+
+Creating New User nr.4 
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:2
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:2
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:3
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:4
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:5
+
+
+0:5a:13:2f:1c:7e
+
+Creating New User nr.5 
+
+b4:8b:19:c8:db:ec
+
+Creating New User nr.6 
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:6
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:7
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:8
+
+
+78:31:c1:cc:1:56
+
+Creating New User nr.7 
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:2
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:3
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:4
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:5
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:6
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:7
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:8
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:2
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:3
+
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:3
+
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:4
+
+
+ec:1f:72:31:8c:9
+
+Creating New User nr.8 
+
+ec:1f:72:31:8c:9
+
+MAC already in List
+Appending Probe Request to user Nr. 8
+Numero di Probe Request inviate:2
+
+
+ec:1f:72:31:8c:9
+
+MAC already in List
+Appending Probe Request to user Nr. 8
+Numero di Probe Request inviate:3
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:2
+
+
+60:f6:77:1a:97:e4
+
+Creating New User nr.9 
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:2
+
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:3
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:3
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:3
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:4
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:5
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:9
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:10
+
+
+da:a1:19:bf:7e:ee
+
+Creating New User nr.10 
+
+da:a1:19:bf:7e:ee
+
+MAC already in List
+Appending Probe Request to user Nr. 10
+Numero di Probe Request inviate:2
+
+
+da:a1:19:bf:7e:ee
+
+MAC already in List
+Appending Probe Request to user Nr. 10
+Numero di Probe Request inviate:3
+
+
+da:a1:19:bf:7e:ee
+
+MAC already in List
+Appending Probe Request to user Nr. 10
+Numero di Probe Request inviate:4
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:4
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:4
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:5
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:6
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:7
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:11
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:12
+
+
+da:a1:19:84:c8:9
+
+Creating New User nr.11 
+
+da:a1:19:84:c8:9
+
+MAC already in List
+Appending Probe Request to user Nr. 11
+Numero di Probe Request inviate:2
+
+
+da:a1:19:84:c8:9
+
+MAC already in List
+Appending Probe Request to user Nr. 11
+Numero di Probe Request inviate:3
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:13
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:5
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:8
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:9
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:10
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:11
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:12
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:13
+
+
+78:c:b8:b0:e0:5a
+
+Creating New User nr.12 
+
+78:c:b8:b0:e0:5a 
+
+Creating New User nr.13 
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:6
+
+
+b8:15:a9:29:9c:6d
+
+Creating New User nr.14 
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:2
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:14
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:15
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:16
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:17
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:18
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:19
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:20
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:21
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:22
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:23
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:24
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:25
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:26
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:27
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:28
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:29
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:7
+
+
+b4:e6:2d:86:57:75
+
+Creating New User nr.15 
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:2
+
+
+c6:51:f8:8e:e0:f9
+
+Creating New User nr.16 
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:30
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:31
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:32
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:6
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:7
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:8
+
+
+da:a1:19:f8:41:89
+
+Creating New User nr.17 
+
+da:a1:19:f8:41:89
+
+MAC already in List
+Appending Probe Request to user Nr. 17
+Numero di Probe Request inviate:2
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:14
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:15
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:16
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:3
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:4
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:5
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:6
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:7
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:8
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:9
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:10
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:11
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:12
+
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:4
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:9
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:8
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:9
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:10
+
+
+b4:e6:2d:86:57:75
+
+MAC already in List
+Appending Probe Request to user Nr. 15
+Numero di Probe Request inviate:13
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:17
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:18
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:19
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:3
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:4
+
+
+44:2c:5:7b:70:92
+
+Creating New User nr.18 
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:2
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:10
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:11
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:11
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:5
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:6
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:7
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:12
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:12
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:13
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:33
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:34
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:35
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:36
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:37
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:38
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:39
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:40
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:41
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:42
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:43
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:44
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:45
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:46
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:47
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:8
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:9
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:13
+
+
+8:ee:8b:b4:4e:af
+
+Creating New User nr.19 
+
+8:ee:8b:b4:4e:af
+
+MAC already in List
+Appending Probe Request to user Nr. 19
+Numero di Probe Request inviate:2
+
+
+8:ee:8b:b4:4e:af
+
+MAC already in List
+Appending Probe Request to user Nr. 19
+Numero di Probe Request inviate:3
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:14
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:15
+
+
+da:a1:19:13:5:22
+
+Creating New User nr.20 
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:3
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:4
+
+
+4:e6:76:8d:31:5d
+
+Creating New User nr.21 
+
+da:a1:19:41:84:99
+
+Creating New User nr.22 
+
+da:a1:19:41:84:99
+
+MAC already in List
+Appending Probe Request to user Nr. 22
+Numero di Probe Request inviate:2
+
+
+da:a1:19:db:e2:f7
+
+Creating New User nr.23 
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:48
+
+
+da:a1:19:41:f2:9e
+
+Creating New User nr.24 
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:3
+
+
+da:a1:19:a7:d:e5
+
+Creating New User nr.25 
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:16
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:17
+
+
+34:fc:ef:cb:bf:31
+
+Creating New User nr.26 
+
+34:fc:ef:cb:bf:31
+
+MAC already in List
+Appending Probe Request to user Nr. 26
+Numero di Probe Request inviate:2
+
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:4
+
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:5
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:5
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:6
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:14
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:15
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:20
+
+
+62:18:71:1c:42:f1
+
+Creating New User nr.27 
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:6
+
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:7
+
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:5
+
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:6
+
+
+5c:c3:7:30:5f:c3
+
+MAC already in List
+Appending Probe Request to user Nr. 3
+Numero di Probe Request inviate:7
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:21
+
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:5
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:22
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:23
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:10
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:11
+
+
+ca:ff:29:4:f4:6e
+
+MAC already in List
+Appending Probe Request to user Nr. 4
+Numero di Probe Request inviate:12
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:7
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:8
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:9
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:10
+
+
+0:25:d3:cd:68:99
+
+Creating New User nr.28 
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:16
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:17
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:24
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:25
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:26
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:27
+
+
+d0:b2:c4:5e:c7:51
+
+Creating New User nr.29 
+
+d0:b2:c4:5e:c7:51
+
+MAC already in List
+Appending Probe Request to user Nr. 29
+Numero di Probe Request inviate:2
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:11
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:12
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:13
+
+
+da:a1:19:c8:9c:3d
+
+Creating New User nr.30 
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:8
+
+
+78:c:b8:b0:e0:5a
+
+MAC already in List
+Appending Probe Request to user Nr. 12
+Numero di Probe Request inviate:2
+
+
+78:c:b8:b0:e0:5a
+
+MAC already in List
+Appending Probe Request to user Nr. 12
+Numero di Probe Request inviate:3
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:49
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:28
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:29
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:30
+
+
+d0:b2:c4:5e:c7:51
+
+MAC already in List
+Appending Probe Request to user Nr. 29
+Numero di Probe Request inviate:3
+
+
+d0:b2:c4:5e:c7:51
+
+MAC already in List
+Appending Probe Request to user Nr. 29
+Numero di Probe Request inviate:4
+
+
+34:fc:ef:cb:bf:31
+
+MAC already in List
+Appending Probe Request to user Nr. 26
+Numero di Probe Request inviate:3
+
+
+34:fc:ef:cb:bf:31
+
+MAC already in List
+Appending Probe Request to user Nr. 26
+Numero di Probe Request inviate:4
+
+
+34:fc:ef:cb:bf:31
+
+MAC already in List
+Appending Probe Request to user Nr. 26
+Numero di Probe Request inviate:5
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:50
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:51
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:31
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:32
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:33
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:18
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:19
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:18
+
+
+da:a1:19:ce:c:15
+
+Creating New User nr.31 
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:6
+
+
+ea:40:39:fe:e7:ee
+
+Creating New User nr.32 
+
+60:f6:77:1a:97:e4
+
+MAC already in List
+Appending Probe Request to user Nr. 9
+Numero di Probe Request inviate:7
+
+
+d0:b2:c4:5e:c7:51
+
+MAC already in List
+Appending Probe Request to user Nr. 29
+Numero di Probe Request inviate:5
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:20
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:21
+
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:9
+
+
+44:2c:5:7b:70:92
+
+MAC already in List
+Appending Probe Request to user Nr. 18
+Numero di Probe Request inviate:10
+
+
+da:a1:19:aa:6d:d1
+
+Creating New User nr.33 
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:19
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:52
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:53
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:34
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:9
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:10
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:11
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:12
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:13
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:14
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:15
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:16
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:54
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:55
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:17
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:18
+
+
+78:31:c1:cc:1:56
+
+MAC already in List
+Appending Probe Request to user Nr. 7
+Numero di Probe Request inviate:19
+
+
+48:27:ea:33:8b:9
+
+Creating New User nr.34 
+
+60:83:34:5d:e6:9
+
+Creating New User nr.35 
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:2
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:3
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:4
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:22
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:23
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:5
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:6
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:7
+
+
+da:a1:19:8b:5f:37
+
+Creating New User nr.36 
+
+da:a1:19:8b:5f:37
+
+MAC already in List
+Appending Probe Request to user Nr. 36
+Numero di Probe Request inviate:2
+
+
+4:e6:76:8d:31:5d
+
+MAC already in List
+Appending Probe Request to user Nr. 21
+Numero di Probe Request inviate:2
+
+
+4:e6:76:8d:31:5d
+
+MAC already in List
+Appending Probe Request to user Nr. 21
+Numero di Probe Request inviate:3
+
+
+da:a1:19:81:ad:d0
+
+Creating New User nr.37 
+
+da:a1:19:81:ad:d0
+
+MAC already in List
+Appending Probe Request to user Nr. 37
+Numero di Probe Request inviate:2
+
+
+da:a1:19:81:ad:d0
+
+MAC already in List
+Appending Probe Request to user Nr. 37
+Numero di Probe Request inviate:3
+
+
+da:a1:19:81:ad:d0
+
+MAC already in List
+Appending Probe Request to user Nr. 37
+Numero di Probe Request inviate:4
+
+
+da:a1:19:81:ad:d0
+
+MAC already in List
+Appending Probe Request to user Nr. 37
+Numero di Probe Request inviate:5
+
+
+da:a1:19:81:ad:d0
+
+MAC already in List
+Appending Probe Request to user Nr. 37
+Numero di Probe Request inviate:6
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:24
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:25
+
+
+60:83:34:5d:e6:9
+
+MAC already in List
+Appending Probe Request to user Nr. 35
+Numero di Probe Request inviate:8
+
+
+0:5a:13:2f:1c:7e
+
+MAC already in List
+Appending Probe Request to user Nr. 5
+Numero di Probe Request inviate:20
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:14
+
+
+b8:15:a9:29:9c:6d
+
+MAC already in List
+Appending Probe Request to user Nr. 14
+Numero di Probe Request inviate:15
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:35
+
+
+94:65:2d:d4:6e:1
+
+MAC already in List
+Appending Probe Request to user Nr. 0
+Numero di Probe Request inviate:36
+
+
+b8:81:98:37:df:4d
+
+Creating New User nr.38 
+
+b8:81:98:37:df:4d
+
+MAC already in List
+Appending Probe Request to user Nr. 38
+Numero di Probe Request inviate:2
+
+
+0:24:d6:74:2b:9a
+
+Creating New User nr.39 
+
+0:24:d6:74:2b:9a
+
+MAC already in List
+Appending Probe Request to user Nr. 39
+Numero di Probe Request inviate:2
+
+
+0:24:d6:74:2b:9a
+
+MAC already in List
+Appending Probe Request to user Nr. 39
+Numero di Probe Request inviate:3
+
+
+b4:8b:19:c8:db:ec
+
+MAC already in List
+Appending Probe Request to user Nr. 6
+Numero di Probe Request inviate:26
+
+
+0:24:d6:74:2b:9a
+
+MAC already in List
+Appending Probe Request to user Nr. 39
+Numero di Probe Request inviate:4
+
+
+0:24:d6:74:2b:9a
+
+MAC already in List
+Appending Probe Request to user Nr. 39
+Numero di Probe Request inviate:5
+
+
+0:24:d6:74:2b:9a
+
+MAC already in List
+Appending Probe Request to user Nr. 39
+Numero di Probe Request inviate:6
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:56
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:57
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:58
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:59
+
+
+f8:a9:d0:4c:e6:68
+
+MAC already in List
+Appending Probe Request to user Nr. 2
+Numero di Probe Request inviate:60
+
+
+Dispositivo:0: 94:65:2d:d4:6e:1 ha inviato 36 Prob Request
+Dispositivo:1: da:a1:19:93:81:96 ha inviato 3 Prob Request
+Dispositivo:2: f8:a9:d0:4c:e6:68 ha inviato 60 Prob Request
+Dispositivo:3: 5c:c3:7:30:5f:c3 ha inviato 7 Prob Request
+Dispositivo:4: ca:ff:29:4:f4:6e ha inviato 12 Prob Request
+Dispositivo:5: 0:5a:13:2f:1c:7e ha inviato 20 Prob Request
+Dispositivo:6: b4:8b:19:c8:db:ec ha inviato 26 Prob Request
+Dispositivo:7: 78:31:c1:cc:1:56 ha inviato 19 Prob Request
+Dispositivo:8: ec:1f:72:31:8c:9 ha inviato 3 Prob Request
+Dispositivo:9: 60:f6:77:1a:97:e4 ha inviato 7 Prob Request
+Dispositivo:10: da:a1:19:bf:7e:ee ha inviato 4 Prob Request
+Dispositivo:11: da:a1:19:84:c8:9 ha inviato 3 Prob Request
+Dispositivo:12: 78:c:b8:b0:e0:5a ha inviato 3 Prob Request
+Dispositivo:13: 78:c:b8:b0:e0:5a  ha inviato 1 Prob Request
+Dispositivo:14: b8:15:a9:29:9c:6d ha inviato 15 Prob Request
+Dispositivo:15: b4:e6:2d:86:57:75 ha inviato 13 Prob Request
+Dispositivo:16: c6:51:f8:8e:e0:f9 ha inviato 1 Prob Request
+Dispositivo:17: da:a1:19:f8:41:89 ha inviato 2 Prob Request
+Dispositivo:18: 44:2c:5:7b:70:92 ha inviato 10 Prob Request
+Dispositivo:19: 8:ee:8b:b4:4e:af ha inviato 3 Prob Request
+Dispositivo:20: da:a1:19:13:5:22 ha inviato 1 Prob Request
+Dispositivo:21: 4:e6:76:8d:31:5d ha inviato 3 Prob Request
+Dispositivo:22: da:a1:19:41:84:99 ha inviato 2 Prob Request
+Dispositivo:23: da:a1:19:db:e2:f7 ha inviato 1 Prob Request
+Dispositivo:24: da:a1:19:41:f2:9e ha inviato 1 Prob Request
+Dispositivo:25: da:a1:19:a7:d:e5 ha inviato 1 Prob Request
+Dispositivo:26: 34:fc:ef:cb:bf:31 ha inviato 5 Prob Request
+Dispositivo:27: 62:18:71:1c:42:f1 ha inviato 1 Prob Request
+Dispositivo:28: 0:25:d3:cd:68:99 ha inviato 1 Prob Request
+Dispositivo:29: d0:b2:c4:5e:c7:51 ha inviato 5 Prob Request
+Dispositivo:30: da:a1:19:c8:9c:3d ha inviato 1 Prob Request
+Dispositivo:31: da:a1:19:ce:c:15 ha inviato 1 Prob Request
+Dispositivo:32: ea:40:39:fe:e7:ee ha inviato 1 Prob Request
+Dispositivo:33: da:a1:19:aa:6d:d1 ha inviato 1 Prob Request
+Dispositivo:34: 48:27:ea:33:8b:9 ha inviato 1 Prob Request
+Dispositivo:35: 60:83:34:5d:e6:9 ha inviato 8 Prob Request
+Dispositivo:36: da:a1:19:8b:5f:37 ha inviato 2 Prob Request
+Dispositivo:37: da:a1:19:81:ad:d0 ha inviato 6 Prob Request
+Dispositivo:38: b8:81:98:37:df:4d ha inviato 2 Prob Request
+Dispositivo:39: 0:24:d6:74:2b:9a ha inviato 6 Prob Request
+ESP numero:506369922
