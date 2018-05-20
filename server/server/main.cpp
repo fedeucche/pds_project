@@ -21,21 +21,25 @@
 #include <unistd.h>
 #include <netdb.h>
 #include <signal.h>
+#include <chrono>
 
+using namespace std;
 using std::set;
 using std::cout;
 using std::endl;
 using std::string;
 using std::runtime_error;
 
+char clock_proto[] = "Give me the clock pleas";
+
 int main(int argc, char *argv[])
 {
+    auto startTime = chrono::high_resolution_clock::now();
     int listenfd = 0, connfd = 0;
     struct sockaddr_in serv_addr, cli_addr;
     int n;
     int count= 1;
     socklen_t cli_addr_len = sizeof(cli_addr);
-    
     
     char size[20];
     char sendBuff[1025];
@@ -58,16 +62,12 @@ int main(int argc, char *argv[])
     size_t connected_mac[20];
     int num_con_mac=0;
     
-    
     // FILE CON MAC CONNESSI AL SERVER ALMENO UNA VOLTA
     FILE *fp= fopen("./server/server/mac_list.txt", "w");
     fclose(fp);
    
-    
-    
-    
-    while(1)
-    {
+    while(true){
+
         std::ofstream mac_list;
         mac_list.open("./server/server/mac_list.txt", std::ofstream::out | std::ofstream::app);
         
@@ -87,65 +87,71 @@ int main(int argc, char *argv[])
         }
         
         int conn=0;
-        for (int l=0; l<num_con_mac; l++)
-        {
-            
+        for (int l=0; l<num_con_mac; l++){
             if ( connected_mac[l] !=  mac_esp)
-            {  conn++;            }
-            
+                conn++;
         }
         
-        
-        if (conn>=num_con_mac)
-        {
+        if (conn>=num_con_mac){
             mac_list<<mac_esp<<endl;
             connected_mac[num_con_mac]= mac_esp;
             num_con_mac++;
-            
         }
+
         sprintf(filename, "./server/server/rec_%d.txt", (int) mac_esp);
         
         // CREO O APRO FILE LOG PER ESP CONNESSO
         std::ofstream fout;
         fout.open(filename, std::ofstream::out | std::ofstream::app);
         
-        if ( ! fout )
-        { std::cerr << " can't open input - " << filename <<endl;
-          return 1; }
+        if (!fout){ 
+            std::cerr << " can't open input - " << filename <<endl;
+            return 1;
+        }
         
-        bzero( recvBuff, sizeof(recvBuff));
-        bzero( size, sizeof(size));
+        bzero(recvBuff, sizeof(recvBuff));
+        bzero(size, sizeof(size));
         
         n = 0;
         
         read(connfd, size, sizeof(size));
-        printf("size of client buf = %d\n\n", atoi(size));
-        
-        int i; char c;
-        for(i=0;i<atoi(size);i++){
-            
-            read(connfd, &c, sizeof(char));
-            recvBuff[i] =  c;
+        if(strcmp(size, clock_proto)==0){
+            auto duration = chrono::high_resolution_clock::now() - startTime;
+            auto elapsedTime = chrono::duration_cast<chrono::milliseconds>(duration).count();
+            cout<<"Responding Time: "<< elapsedTime << "s" << endl;
+            sprintf(sendBuff, "%g", (double)elapsedTime);
+            write(connfd, sendBuff, strlen(sendBuff));
         }
-        
-        /*
-         for(i=0;i<atoi(size);i++){
-         printf("%c",recvBuff[i]);
-         
-         }
-         */
-        
-        printf("\nSending response...\n");
-        
-        bzero(sendBuff, sizeof(sendBuff));
-        
-        write(connfd, sendBuff, strlen(sendBuff));
+        else{
+            printf("size of client buf = %d\n\n", atoi(size));
+            
+            int i; char c;
+            for(i=0;i<atoi(size);i++){
+                read(connfd, &c, sizeof(char));
+                recvBuff[i] =  c;
+            }
+            
+            /*
+             for(i=0;i<atoi(size);i++){
+             printf("%c",recvBuff[i]);
+             
+             }
+             */
+            
+            printf("\nSending response...\n");
+            
+            bzero(sendBuff, sizeof(sendBuff));
+            auto duration = chrono::high_resolution_clock::now() - startTime;
+            auto elapsedTime = chrono::duration_cast<chrono::milliseconds>(duration).count();
+            cout<<"Responding Time: "<< elapsedTime << "s" << endl;
+            sprintf(sendBuff, "%g", (double)elapsedTime);
+            
+            write(connfd, sendBuff, strlen(sendBuff));
+
+            fout<< recvBuff << endl;
+        }
+
         close(connfd);
-        
-        fout<< recvBuff << endl;
-        
-        //fout.close();
-        
         printf("Closed connection with esp32!\n");
         sleep(1);
         
