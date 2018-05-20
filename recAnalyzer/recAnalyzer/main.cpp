@@ -132,10 +132,10 @@ int main(int argc, const char * argv[]) {
             analyzer_threads.push_back(thread(analyzer,filename,temp));
             
         }
-            for_each(analyzer_threads.begin(), analyzer_threads.end(), mem_fn(&thread::join));
         //sleep(1);
     }
-
+    
+    for_each(analyzer_threads.begin(), analyzer_threads.end(), mem_fn(&thread::join));
    
     return 0;
 }
