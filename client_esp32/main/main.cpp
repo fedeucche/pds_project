@@ -50,6 +50,7 @@ high_resolution_clock::time_point startTime;
 double server_clock;
 double local_clock;
 char ip_server[] = "192.168.4.6";
+char clock_proto[] = "Give me your clock pleas";
 
 void client(){
     int sockfd = 0, n = 0;
@@ -231,7 +232,7 @@ void get_and_set_time(){
     }
     printf("\nCONNECTED LOL\n");
 
-    strcpy(sendBuff, "Give me your clock pleas");
+    strcpy(sendBuff, clock_proto);
     write(sockfd, sendBuff, sizeof(sendBuff));
 
     if((n = read(sockfd, recvBuff, sizeof(recvBuff)-1)) > 0){
