@@ -30,7 +30,7 @@ using std::endl;
 using std::string;
 using std::runtime_error;
 
-char clock_proto[] = "Give me the clock pleas";
+char clock_proto[] = "Give me your clock pleas";
 
 int main(int argc, char *argv[])
 {
