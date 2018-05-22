@@ -157,7 +157,12 @@ void sniffer(void *buf, wifi_promiscuous_pkt_type_t type){
         wh->bssid[3], wh->bssid[4], wh->bssid[5]);*/
         double relative_timestamp = server_clock + (double)p->rx_ctrl.timestamp/1000 - local_clock;
         //cout << "TIMESTAMP PKT: " << p->rx_ctrl.timestamp/1000 << " - LOCAL TIMESTAMP: " << local_clock << " REL_TIMESTAMP: " << relative_timestamp << endl;
-        sprintf(tmp,
+        /*
+	 *
+	 * BISOGNA METTERE L'HASH DEL PACCHETTO (?)
+	 *
+	 */
+	sprintf(tmp,
             "%d,%g,"
             "%x:%x:%x:%x:%x:%x\n",
             (int)p->rx_ctrl.rssi, relative_timestamp,
