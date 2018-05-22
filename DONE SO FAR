@@ -19,3 +19,5 @@ PC – DATA ANALYZER
 1) Apre il file contenente la lista dei MAC delle esp32 connesse.
 2) In un ciclo infinito prende ogni MAC e gestisce per ciascuno di essi un thread a parte dove apre tali file e li analizza. Il ciclo è infinito poiché l’algoritmo deve prendere i MAC anche se una esp32 viene collegata dopo.
 3) Per ogni thread (quindi per ogni esp32) la funzione analyzer () apre il file proprio dell’esp32 a cui è riferita e, in un ciclo infinito (per lo stesso motivo di sopra), gestisce ogni riga del file, creando un oggetto User per ogni MAC source, e aggiungendo ad esso il relativo timestamp e rssi (non esisteranno quindi diversi User con lo stesso MAC, ma lo stesso User potrà avere diversi timestamp e rssi).
+
+BISOGNA AGGIUNGERE L'HASH DEL PACCHETTO!!!
