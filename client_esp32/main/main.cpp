@@ -160,14 +160,16 @@ void sniffer(void *buf, wifi_promiscuous_pkt_type_t type){
         /*
 	 *
 	 * BISOGNA METTERE L'HASH DEL PACCHETTO (?)
+	 * COSI' COME L'SSID
 	 *
 	 */
 	sprintf(tmp,
             "%d,%g,"
-            "%x:%x:%x:%x:%x:%x\n",
+            "%x:%x:%x:%x:%x:%x,%D\n",
             (int)p->rx_ctrl.rssi, relative_timestamp,
             wh->mac_src[0], wh->mac_src[1], wh->mac_src[2],
-            wh->mac_src[3], wh->mac_src[4], wh->mac_src[5]);
+            wh->mac_src[3], wh->mac_src[4], wh->mac_src[5],
+	    (int)wh->seqct);
         strcpy(send_out_buff+strlen(send_out_buff), tmp);
         //printf("\n SIZEOF BUF = %d\n", strlen(send_out_buff));
     }
