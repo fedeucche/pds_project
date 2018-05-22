@@ -2,7 +2,7 @@ ESP32 – CLIENT
 1) Collegamento con access point (altra ESP32) attraverso funzioni di base della scheda.
 2) Chiamata alla funzione get_and_set_time () che imposta la variabile globale local_clock con il clock della esp32 in quel momento, dunque chiede al server il suo clock e setta la variabile globale server_clock con il clock del server appena preso.
 3) Inizio del loop.
-4) SNIFFER TURN (7s): appena sniffa un pacchetto probe_request crea una stringa contenente l’rssi, il source MAC e il timestamp relativo del pacchetto (il timestamp relativo è dato dalla somma del server_clock con la differenza tra il timestamp del pacchetto e la variabile local_clock). Dunque aggiunge la stringa al buffer globale send_out_buff.
+4) SNIFFER TURN (7s): appena sniffa un pacchetto probe_request crea una stringa contenente l’rssi, il source MAC, il seq_n del pacchetto e il timestamp relativo del pacchetto (il timestamp relativo è dato dalla somma del server_clock con la differenza tra il timestamp del pacchetto e la variabile local_clock). Dunque aggiunge la stringa al buffer globale send_out_buff.
 5) CLIENT TURN (3s): Invia al server la dimensione del buffer globale. Se tale dimensione è maggiore di 500 byte, la divide in chunk da 500 byte, dopodiché invia il buffer al server. Dunque legge la risposta del server che contiene il clock del server e aggiorna la variabile server_clock.
 
 ESP32 – ACCESS POINT
