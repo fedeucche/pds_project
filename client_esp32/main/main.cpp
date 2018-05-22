@@ -165,7 +165,7 @@ void sniffer(void *buf, wifi_promiscuous_pkt_type_t type){
 	 */
 	sprintf(tmp,
             "%d,%g,"
-            "%x:%x:%x:%x:%x:%x,%D\n",
+            "%x:%x:%x:%x:%x:%x,%d\n",
             (int)p->rx_ctrl.rssi, relative_timestamp,
             wh->mac_src[0], wh->mac_src[1], wh->mac_src[2],
             wh->mac_src[3], wh->mac_src[4], wh->mac_src[5],
