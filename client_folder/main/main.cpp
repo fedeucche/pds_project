@@ -50,7 +50,7 @@ high_resolution_clock::time_point startTime;
 double server_clock;
 double local_clock;
 char ip_server[] = "192.168.4.4";
-char clock_proto[] = "Give me your clock pleas";
+char clock_proto[] = "Give me your clock please";
 
 void client(){
     int sockfd = 0, n = 0;
