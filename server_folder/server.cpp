@@ -32,7 +32,7 @@ using std::endl;
 using std::string;
 using std::runtime_error;
 
-char clock_proto[] = "Give me your clock pleas";
+char clock_proto[] = "Give me your clock please";
 
 void open_analyzer(){
     system("./analyzer/rec_analyzer");
