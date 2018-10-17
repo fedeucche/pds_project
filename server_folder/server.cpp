@@ -109,14 +109,7 @@ int main(){
 
         sprintf(filename, "rec_%d.txt", (int)mac_esp);
         
-        // CREO O APRO FILE LOG PER ESP CONNESSO
-        std::ofstream fout;
-        fout.open(filename, std::ofstream::out | std::ofstream::app);
-        
-        if (!fout){ 
-            std::cerr << " can't open input - " << filename <<endl;
-            return 1;
-        }
+       
         
         bzero(recvBuff, sizeof(recvBuff));
         bzero(size, sizeof(size));
@@ -154,7 +147,14 @@ int main(){
             sprintf(sendBuff, "%g", (double)elapsedTime);
             
             write(connfd, sendBuff, strlen(sendBuff));
-
+            // CREO O APRO FILE LOG PER ESP CONNESSO
+            std::ofstream fout;
+            fout.open(filename, std::ofstream::out | std::ofstream::app);
+        
+        if (!fout){ 
+            std::cerr << " can't open input - " << filename <<endl;
+            return 1;
+        }
             fout << recvBuff << endl;
         }
 
